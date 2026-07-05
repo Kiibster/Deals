@@ -1,0 +1,35 @@
+{
+  "webhook_url": "PASTE_YOUR_DISCORD_WEBHOOK_URL_HERE",
+  "poll_seconds": 300,
+  "first_run_posts": 5,
+  "max_posts_per_cycle": 25,
+  "include_keywords": [],
+  "exclude_keywords": [],
+  "feeds": [
+    {
+      "name": "RedFlagDeals - Hot Deals",
+      "url": "https://forums.redflagdeals.com/feed/forum/9",
+      "color": 14826792
+    },
+    {
+      "name": "RedFlagDeals - Front Page",
+      "url": "https://www.redflagdeals.com/rss/deals",
+      "color": 15548997
+    },
+    {
+      "name": "SmartCanucks",
+      "url": "https://smartcanucks.ca/feed",
+      "color": 3066993
+    },
+    {
+      "name": "r/bapcsalescanada (PC parts)",
+      "url": "https://www.reddit.com/r/bapcsalescanada/new/.rss",
+      "color": 15105570
+    },
+    {
+      "name": "r/VideoGameDealsCanada",
+      "url": "https://www.reddit.com/r/VideoGameDealsCanada/new/.rss",
+      "color": 10181046
+    }
+  ]
+}
